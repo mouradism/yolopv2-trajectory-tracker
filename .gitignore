@@ -56,3 +56,7 @@ env/
 Thumbs.db
 .vscode/
 .idea/
+
+# Ignore all markdown files
+*.md
+
